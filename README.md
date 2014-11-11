@@ -1,18 +1,38 @@
 # PROGRESSO #
 * ## TODO ##
+    * Projeto
+        * Estrutura de Controller
+        * Estrutura de views
+        * Estrutura de layout
+    * Layout
+        * 
+    * Usuários
+        * Cadastro de usuários 
+        * Login
 
 * ## DOING ##
-    * Cadastro de usuários
+    * Estruturando Projeto
+    * Layout
+        * Criando Layout de testes usando bootstrap
+
+* ## DONE ##
+    * Projeto
+        * Estrutura de models
 
 # Informações gerais #
 * Template Engine : Mustache
 * Database : MongoDB
 * ORM : Mongoose
 
+# Especificações HTML #
+1. Nomenclatura dos arquivos
+    1. 
 # Especificações CSS #
+## Regras de nomenclatura de arquivos ##
+
 ## Regras de nomenclatura de classes ##
 1. Classes gerais para todos os layouts
-    1. **DEVEM** ser escritas com o prefixo de layout ```a-{nome da classe}```
+    1. **DEVEM** ser escritas sem o prefixo de layout ```{nome da classe}```
     2. **DEVEM** ser unicas e sucintas, serão utilizadas por todos 
     para facilitar a alteração do layout
     3. **PODEM** seguir as sugestões de nomenclatura
@@ -28,3 +48,9 @@
     1. **DEVEM** ser escritas com um prefixo 
     nome do layout exemplo: ```desenvolvimento-{nome da classe}```
     2. **PODEM** seguir as regras definidas em 1.3
+
+# Especificações de Código #
+1. Identação **DEVE** ser feita com 4 espaços
+
+## Especificações da escrita de Models ##
+

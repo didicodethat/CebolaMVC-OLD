@@ -1,0 +1,33 @@
+<!DOCTYPE html!>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>{{username}}</title>
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="css/bootstrap-theme.min.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+<body>
+    <div class="navigation navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="/">Anúncio Certo</a>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="navbar-nav nav">
+                    <li><a href="">Cadastrar</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="main">
+        <div class="content">
+            <div class="container">
+                <div class="starter-template">
+                    <p>Mensagem de testes</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
